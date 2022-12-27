@@ -1,0 +1,38 @@
+* TODO Add the ability to add recurring meetings
+SCHEDULED: <2022-12-27 Tue>
+:PROPERTIES:
+:Effort:   1h
+:END:
+Adding a meeting should add a template to the current recurrent meeting
+* TODO Add the ability to add non-recurring meetings
+SCHEDULED: <2022-12-27 Tue>
+:PROPERTIES:
+:Effort:   1h
+:END:
+* TODO Add the ability to add templates (via org-capture)
+SCHEDULED: <2022-12-28 Wed>
+:PROPERTIES:
+:Effort:   1h
+:END:
+* TODO Keep track of the recurring meetings and their templates
+SCHEDULED: <2022-12-28 Wed>
+:PROPERTIES:
+:Effort:   1h
+:END:
+* TODO Link projects to meetings 
+SCHEDULED: <2022-12-29 Thu>
+:PROPERTIES:
+:Effort:   1h
+:END:
+* TODO Add the ability to add todos to projects linked to meetings 
+SCHEDULED: <2022-12-29 Thu>
+:PROPERTIES:
+:Effort:   1h
+:END:
+
+* TODO Add the ability to link meetings to the agenda
+SCHEDULED: <2022-12-30 Fri>
+:PROPERTIES:
+:Effort:   1h
+:END:
+So you can open it in the agenda and have the meetings notes show up

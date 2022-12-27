@@ -1,0 +1,2 @@
+* What?
+Small package for managing meetings in org-mode. Heavily WIP
