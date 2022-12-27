@@ -1,13 +1,23 @@
 * TODO Add the ability to add recurring meetings
-SCHEDULED: <2022-12-27 Tue>
+SCHEDULED: <2022-12-28 Wed>
 :PROPERTIES:
 :Effort:   1h
 :END:
 Adding a meeting should add a template to the current recurrent meeting
 * TODO Add the ability to add non-recurring meetings
-SCHEDULED: <2022-12-27 Tue>
+SCHEDULED: <2022-12-28 Wed>
 :PROPERTIES:
 :Effort:   1h
+:END:
+* TODO Add entries to recurring meetings
+SCHEDULED: <2022-12-28 Wed>
+:PROPERTIES:
+:Effort:   2h
+:END:
+* TODO Add entries to non-recurring meetings
+SCHEDULED: <2022-12-28 Wed>
+:PROPERTIES:
+:Effort:   2h
 :END:
 * TODO Add the ability to add templates (via org-capture)
 SCHEDULED: <2022-12-28 Wed>
